@@ -19,15 +19,8 @@
 
 ## 👋 Hey, I'm Zaheer
 
-I'm a **full-stack engineer** based in San Francisco, currently building developer tooling at [Acme Corp](https://acme.com). I care deeply about **developer experience**, **performance**, and writing code that's a joy to read.
-
-- 🔭 Currently working on **[Velo](https://github.com/zaheeransari763/velo)** — a blazing-fast monorepo task runner built in Rust
-- 🌱 Learning **WebAssembly** and **distributed systems design**
-- 💬 Ask me about **React, TypeScript, Node.js, system design, or side projects**
-- ⚡ Fun fact: I've brewed over 200 batches of specialty coffee ☕
-
+I'm a **full-stack engineer** based in India-Mumbai 421305 , currently working as Data Engineer at [Infosys](https://www.infosys.com/). I care deeply about **developer experience**, **performance**, and writing code that's a joy to read.
 ---
-
 ## 🛠️ Tech Stack
 
 **Languages**
