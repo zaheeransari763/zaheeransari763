@@ -95,12 +95,12 @@ I'm a **full-stack engineer** based in India-Mumbai 421305 , currently working a
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stars | Tech |
-|--------|-------------|-------|------|
-| 🦀 **[Velo](https://github.com/zaheeransari763/velo)** | Monorepo task runner, 10x faster than alternatives | ⭐ 1.2k | Rust, WASM |
-| 🎨 **[Spectral UI](https://github.com/zaheeransari763/spectral-ui)** | Headless component library with first-class a11y | ⭐ 843 | React, TS |
-| 🔍 **[SQLens](https://github.com/zaheeransari763/sqlens)** | Visual query explainer and optimizer for Postgres | ⭐ 512 | Go, React |
-| 📦 **[pkgdiff](https://github.com/zaheeransari763/pkgdiff)** | Visual npm bundle diff tool for CI pipelines | ⭐ 290 | Node.js |
+| Project | Description | Tech |
+|--------|-------------|-------|
+| 🥩 **[Gochi](https://github.com/zaheeransari763/HalalCustomer)** | Meat Selling system connecting Customer and seller | Dart |
+| 📚 **[Scholars App](https://github.com/chandu-1/scholarapp)** | Application System for Students to practice and give exams | Dart |
+| 💉 **[MedJunction](https://github.com/aqdas851/MedJunction)** | Android Native application providing medical services |Java,XML |
+| 👓 **[UniversityAIO](https://github.com/zaheeransari763/University_All_In_One)** | Android Native application providing academics and study contents | Java,XML |
 
 ---
 
