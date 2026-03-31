@@ -104,17 +104,6 @@ I'm a **full-stack engineer** based in India-Mumbai 421305 , currently working a
 
 ---
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How I cut our build time by 60% with Velo](https://zaheeransari763.dev/blog/velo-build-time)
-- [Rust for TypeScript developers: a practical guide](https://zaheeransari763.dev/blog/rust-for-ts-devs)
-- [The hidden costs of over-abstracting your React components](https://zaheeransari763.dev/blog/react-abstraction)
-- [Building a zero-downtime deploy pipeline on AWS](https://zaheeransari763.dev/blog/zero-downtime-aws)
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
