@@ -23,29 +23,58 @@ I'm a **full-stack engineer** based in India-Mumbai 421305 , currently working a
 ---
 ## 🛠️ Tech Stack
 
-**Languages**
-
-![Python](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Dart](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+**🐍 Core Languages**
+ 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![XML](https://img.shields.io/badge/XML-FF6600?style=flat-square&logo=w3c&logoColor=white)
+ 
+**⚙️ ETL / ELT Tools**
+ 
+![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Python Scripts](https://img.shields.io/badge/Python_Ingestion_Scripts-3776AB?style=flat-square&logo=python&logoColor=white)
+ 
+**🔀 Orchestration**
+ 
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Control-M](https://img.shields.io/badge/Control--M-FF6C37?style=flat-square&logo=bmc&logoColor=white)
+ 
+**🗄️ Data Platforms**
+ 
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+ 
+**📊 BI & Visualization**
+ 
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SSRS](https://img.shields.io/badge/SSRS-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+ 
+**🛡️ Data Governance**
+ 
+![Data Quality](https://img.shields.io/badge/Data_Quality_Frameworks-00897B?style=flat-square&logo=checkmarx&logoColor=white)
+![Integrity Checks](https://img.shields.io/badge/Automated_Integrity_Checks-00897B?style=flat-square&logo=checkmarx&logoColor=white)
+ 
+**🔧 Infrastructure & Ops**
+ 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=flat-square&logo=servicenow&logoColor=white)
 
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-
-**Backend & Infra**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-
+**💻 Integrated Development Environments**
+ 
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+ 
+**☁️ Cloud & Modern Stack *(In Progress)***
+ 
+![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+ 
 ---
 
 ## 📊 GitHub Stats
@@ -65,13 +94,6 @@ I'm a **full-stack engineer** based in India-Mumbai 421305 , currently working a
 ---
 
 ## 🚀 Featured Projects
-
-<div align="center">
-
-[![Velo](https://github-readme-stats.vercel.app/api/pin/?username=zaheeransari763&repo=velo&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/zaheeransari763/velo)
-[![Spectral UI](https://github-readme-stats.vercel.app/api/pin/?username=zaheeransari763&repo=spectral-ui&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/zaheeransari763/spectral-ui)
-
-</div>
 
 | Project | Description | Stars | Tech |
 |--------|-------------|-------|------|
@@ -107,6 +129,6 @@ I'm a **full-stack engineer** based in India-Mumbai 421305 , currently working a
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer)
 
-*"First, solve the problem. Then, write the code." — John Johnson*
+*As, someone narrated. Learning, is an investment towards success." *
 
 </div>
