@@ -25,9 +25,9 @@ I'm a **full-stack engineer** based in India-Mumbai 421305 , currently working a
 
 **Languages**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Dart](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
@@ -49,13 +49,6 @@ I'm a **full-stack engineer** based in India-Mumbai 421305 , currently working a
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zaheeransari763&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaheeransari763&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-</div>
 
 <div align="center">
 
