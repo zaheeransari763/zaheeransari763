@@ -1,11 +1,15 @@
-### Hi there, I'm Zaheer Ahmed - aka [Dev Society][website] 👋
+### Hi there, I'm Zaheer Ahmed.
 
-## I'm a Full stack Developer, and hungry learner!!
+## I'm a Full stack Developer and Data Engineer, and hungry learner!!
 
-- 🌱 I’m currently in mood to learn and grasp everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more in self enhancement and on Open Source projects
+- 👯 I’m looking to collaborate and learn.
+- 🥅 Alltime Goals: Contribute more in self enhancement and on Open Source projects
 - ⚡ Fun fact: I love to write and a dedicated fitness lover 🦾
+
+I am currently expanding my expertise into the Modern Data Stack, including:
+-☁️ Cloud: Azure Data Factory (ADF) & Snowflake.
+-⚙️ Big Data: Distributed processing with PySpark.
+-🏗️ Transformation: Modern ELT workflows with dbt.
 
 
 ### Connect with me and lets rock together:
@@ -35,7 +39,6 @@
 [<img align="left" alt="Eclipse" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-svg-vector.svg" />][website]
 [<img align="left" alt="Studio" width="26px" src="https://w7.pngwing.com/pngs/244/430/png-transparent-microsoft-sql-server-sql-server-management-studio-database-server-microsoft-angle-text-triangle.png" />][website]
 
-[website]: https://devsociety-we.web.app/
 [twitter]: https://twitter.com/AnsariZaheerAh2
 [instagram]: https://www.instagram.com/_flirty.insane/
 [linkedin]: https://www.linkedin.com/in/zaheer-ahmed-ansari-07a43215a/
