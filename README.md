@@ -13,5 +13,5 @@
 
 ### Connect with me and lets rock together:
 
-LinkedIn: [Your LinkedIn Profile Link](https://twitter.com/AnsariZaheerAh2)]
+LinkedIn: [http://www.linkedin.com/in/zaheer-ahmed-ansari-07a43215a]
 Email: zaheeransari763@gmail.com
