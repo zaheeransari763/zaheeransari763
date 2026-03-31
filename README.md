@@ -12,12 +12,6 @@
 - 🏗️ Transformation: Modern ELT workflows with dbt.
 
 ### Connect with me and lets rock together:
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
-
-[twitter]: https://twitter.com/AnsariZaheerAh2
-[instagram]: https://www.instagram.com/_flirty.insane/
-[linkedin]: https://www.linkedin.com/in/zaheer-ahmed-ansari-07a43215a/
+LinkedIn: [Your LinkedIn Profile Link](https://twitter.com/AnsariZaheerAh2)]
+Email: zaheeransari763@gmail.com
