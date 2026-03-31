@@ -4,7 +4,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Zaheer%20Ahmed%20Ansari&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Building%20things%20that%20matter%20%F0%9F%9A%80&descAlignY=58&descSize=18)
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Full-Stack+Engineer+%7C+5+yrs+exp;Open+source+contributor;TypeScript+%2B+Rust+enthusiast;Always+learning%2C+always+building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Full-Stack+Engineer+%7C+3+yrs+exp;Data-Engineer+%7C+5+yrs+exp;Open+source+contributor;Always+learning%2C+always+building)](https://git.io/typing-svg)
 
 <br/>
 
